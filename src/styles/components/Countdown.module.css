@@ -79,4 +79,14 @@
     background: var(--white);
     color: var(--text);
     cursor: not-allowed;
+    border-bottom: 5px solid #F7C600;
+}
+
+.countdownButton[disabled] > p {
+    display: flex;
+    align-items: center;
+}
+
+.countdownButton[disabled] img {
+    margin-left: 1rem;
 }
