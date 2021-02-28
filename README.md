@@ -1,34 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1 style="font-family: roboto;" align='center'>PomoMove 🚀</h1>
+<h4 style="font-family: roboto;" align='center'>Inspirado no move.it desenvolvido no NLW da Rocketseat</h4>
 
-First, run the development server:
+<h1 style="font-family: roboto;" align='center'>
+  <img src='https://img.shields.io/static/v1?label=status&message=Development&color=ffd700&style=for-the-badge&logo=Next.js'></img>
+  <img src='https://img.shields.io/static/v1?label=PomoMove&message=1.0v&color=4169E1&style=for-the-badge&logo=React'></img>
+  <img src='https://img.shields.io/static/v1?label=NLW&message=4&color=2E8B57&style=for-the-badge&logo=Radar'></img>
+</h1>
+
+<h1 style="font-family: roboto;" align='center'>
+  <img src='./pomomove.gif'></img>
+</h1>
+
+### :pushpin: Objective
+
+<p style="font-family: roboto;">Improve my skills from the free event made by Rocketseat.</p>
+
+### :hammer: Requirements
+
+Before you begin, you will need to have the following tools installed on your machine:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+In addition, it is good to have an editor to work with the code as [VSCode](https://code.visualstudio.com/)
+
+### :rocket: Installing and running
 
 ```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Clone the project:
+$ git clone https://github.com/Matheus-Rian/PomoMove-next.git
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Enter the directory:
+$ cd pomomove-next
+  
+# Installing dependencies:
+$ yarn
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Running the application in development mode:
+$ yarn dev
+``` 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### 🏁 Features 
 
-## Learn More
+- [X] Interface
+- [x] Countdown
+- [x] Cookies storage
+- [X] Level Up
+- [X] Challenges
+- [X] Profile
+### ⚒️ Technology
 
-To learn more about Next.js, take a look at the following resources:
+The following tools were used in the construction of the project:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Nextjs](https://nextjs.org/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
+### :trident: Author 
 
-## Deploy on Vercel
+<a href="https://www.linkedin.com/in/matheus-rian-19b81a183/">
+ <img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/53922139?s=460&u=78916fa8ef722becba440780b3f5756e66507bb7&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Matheus Rian</b></sub></a> <a href="https://www.linkedin.com/in/matheus-rian-19b81a183/" title="MatheusRian">🚀</a>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+ Made with ❤️ by Matheus Rian :point_right: Get in touch!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/matheus-rian-19b81a183/) [![Gmail Badge](https://img.shields.io/badge/-souzamatheusrian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzamatheusrian@gmail.com)](souzamatheusrian@gmail.com)
