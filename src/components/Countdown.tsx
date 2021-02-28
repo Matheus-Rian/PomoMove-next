@@ -28,7 +28,7 @@ export function Countdown() {
             {hasFinished ? (
                 <button disabled className={styles.countdownButton}>
                     <p>
-                        Ciclo encerrado
+                        <p>Ciclo encerrado</p> 
                         <img src="icons/happy.svg" height='40px' width='40px' alt=""/>
                     </p>
                 </button>
