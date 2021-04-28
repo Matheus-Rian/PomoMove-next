@@ -3,8 +3,8 @@
 <h4 style="font-family: roboto;" align='center'>Inspirado no move.it desenvolvido no NLW da Rocketseat</h4>
 
 <h1 style="font-family: roboto;" align='center'>
-  <img src='https://img.shields.io/static/v1?label=status&message=Development&color=ffd700&style=for-the-badge&logo=Next.js'></img>
-  <img src='https://img.shields.io/static/v1?label=PomoMove&message=1.0v&color=4169E1&style=for-the-badge&logo=React'></img>
+  <img src='https://img.shields.io/static/v1?label=status&message=Development&color=ffd700&style=for-the-badge&logo=React'></img>
+  <img src='https://img.shields.io/static/v1?label=PomoMove&message=1.0v&color=4169E1&style=for-the-badge&logo=Next.js'></img>
   <img src='https://img.shields.io/static/v1?label=NLW&message=4&color=2E8B57&style=for-the-badge&logo=Radar'></img>
 </h1>
 
